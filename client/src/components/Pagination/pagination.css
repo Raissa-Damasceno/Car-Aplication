@@ -1,0 +1,20 @@
+.pagination-group {
+    display: flex;
+    justify-content: space-around;
+    padding: 60px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.pagination-button {
+    background-color: white!important;
+    color: black!important;
+    margin-left: 10px!important;
+    margin-right: 10px!important;
+    border-color: white!important;
+}
+
+.butPag{
+    display: flex;
+}
